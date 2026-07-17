@@ -25,13 +25,13 @@ Expected Graduation: **December 2026** | **GPA: 3.9 / 4.0**
 
 # 👨‍💻 About Me
 
-I'm a Master's student in **Information Systems** at **Northeastern University** with a passion for designing scalable data platforms, building modern ETL pipelines, and creating business intelligence solutions that turn raw data into meaningful insights.
+I am a Master's student in **Information Systems** at **Northeastern University** with a passion for designing scalable data platforms, building modern ETL pipelines, and creating business intelligence solutions that turn raw data into meaningful insights.
 
-My experience spans **Data Engineering**, **Cloud Data Platforms**, **Business Intelligence**, and **Analytics**, where I've worked on building end-to-end data pipelines, designing dimensional data warehouses, integrating large-scale datasets, and developing interactive dashboards for decision-making.
+My experience spans **Data Engineering**, **Cloud Data Platforms**, **Business Intelligence**, and **Analytics**, where I have worked on building end-to-end data pipelines, designing dimensional data warehouses, integrating large-scale datasets, and developing interactive dashboards for decision-making.
 
-Currently, I'm working as a **Data Engineer / ML Ops Intern at Crewasis.ai**, where I design scalable data pipelines, integrate cloud data sources, optimize database performance, and improve data processing workflows. Previously, I served as a **Graduate Teaching Assistant** at Northeastern University, mentoring graduate students in SQL, relational database design, ETL concepts, and data engineering fundamentals.
+Previously, I was working as a **Data Engineer / ML Ops Intern at Crewasis.ai**, where I designed scalable data pipelines, integrated cloud data sources, optimized database performance, and improved data processing workflows. I also served as a **Graduate Teaching Assistant** at Northeastern University, mentoring graduate students in SQL, relational database design, ETL concepts, and data engineering fundamentals.
 
-I'm actively seeking **Full-Time opportunities (2026)** as a:
+I am actively seeking **Full-Time opportunities (2026)** as a:
 
 - Data Engineer
 - Analytics Engineer
@@ -59,6 +59,8 @@ Relevant Coursework
 - Data Science Engineering Methods & Tools
 - Designing Advanced Data Architectures
 - Application Engineering & Development
+- Program Structure and Algorithms
+- Planning & Managing Information Systems Development
 
 ---
 
