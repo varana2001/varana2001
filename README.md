@@ -10,7 +10,7 @@ Expected Graduation: **December 2026** | **GPA: 3.9 / 4.0**
 
 📍 Boston, Massachusetts
 
-[Portfolio]((https://varana-navadiya-portfolio.netlify.app/) •
+[Portfolio](https://varana-navadiya-portfolio.netlify.app/) •
 [LinkedIn](www.linkedin.com/in/varana2) •
 [Resume](https://drive.google.com/file/d/1a_jNjO-KFzGkndg1xPG-7ExuaOrvOI4v/view) •
 [Email](mailto:navadiya.v@northeastern.edu)
