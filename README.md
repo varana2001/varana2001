@@ -186,8 +186,6 @@ B.Tech in Information Technology
 
 </div>
 
-> Replace `varana2001` above with your actual GitHub username if it differs — these cards pull live from your GitHub activity.
-
 ---
 
 ### 🎯 Career Interests
@@ -201,7 +199,7 @@ B.Tech in Information Technology
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-navadiya.v@northeastern.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:navadiya.v@northeastern.edu)
-[![LinkedIn](https://img.shields.io/badge/-Varana_Navadiya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varana2)
+[![LinkedIn](https://img.shields.io/badge/-Varana_Navadiya_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varana2)
 [![Portfolio](https://img.shields.io/badge/-Portfolio_Site-2EA3F7?style=flat-square&logo=vercel&logoColor=white)](https://varana-navadiya-portfolio.netlify.app/)
 [![Resume](https://img.shields.io/badge/-Resume-FF5722?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1a_jNjO-KFzGkndg1xPG-7ExuaOrvOI4v/view)
 
