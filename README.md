@@ -11,7 +11,7 @@
 
 **Tech Stack**
 
-Python • SQL • AWS • S3 • Docker • Data Engineering • ETL • Git
+Python • SQL • AWS • Docker • Data Engineering • ETL • Git
 
 ---
 
