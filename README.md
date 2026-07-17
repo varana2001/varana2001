@@ -10,9 +10,9 @@ Expected Graduation: **December 2026** | **GPA: 3.9 / 4.0**
 
 📍 Boston, Massachusetts
 
-[Portfolio](YOUR_PORTFOLIO) •
-[LinkedIn](YOUR_LINKEDIN) •
-[Resume](YOUR_RESUME) •
+[Portfolio]((https://varana-navadiya-portfolio.netlify.app/) •
+[LinkedIn](www.linkedin.com/in/varana2) •
+[Resume](https://drive.google.com/file/d/1a_jNjO-KFzGkndg1xPG-7ExuaOrvOI4v/view) •
 [Email](mailto:navadiya.v@northeastern.edu)
 
 ---
@@ -199,11 +199,11 @@ ReactJS • Node.js • MongoDB • Bootstrap • JavaScript • HTML • CSS
 
 📧 **Email:** navadiya.v@northeastern.edu
 
-💼 **LinkedIn:** www.linkedin.com/in/varana2
+💼 **LinkedIn:** [Varana Navadiya LinkedIn](www.linkedin.com/in/varana2)
 
-🌐 **Portfolio:** https://varana-navadiya-portfolio.netlify.app/
+🌐 **Portfolio:** [Varana Navadiya Portfolio](https://varana-navadiya-portfolio.netlify.app/)
 
-📄 **Resume:** [Varana Navadiya](https://drive.google.com/file/d/1a_jNjO-KFzGkndg1xPG-7ExuaOrvOI4v/view)
+📄 **Resume:** [Varana Navadiya Resume](https://drive.google.com/file/d/1a_jNjO-KFzGkndg1xPG-7ExuaOrvOI4v/view)
 
 ---
 
