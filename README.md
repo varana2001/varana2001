@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Varana Navadiya
+# 👋 Hi, Iam Varana Navadiya
 
 ### Data Engineer • Analytics Engineer • Business Intelligence Engineer
 
